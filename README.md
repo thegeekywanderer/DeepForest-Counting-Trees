@@ -1,4 +1,4 @@
-# DeepForest-Counting-Trees-Demo
+# DeepForest-Counting-Trees
 This is an example of using DeepForest to count number of trees in the given image
 ## Implemented on the pretrained NEON model of DeepForest
 An example of one of the prediction window on an low resolution image made by the model is: 
